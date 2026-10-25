@@ -3,9 +3,10 @@ body {
 }
 
 .menu {
+    margin: auto;
     width: 20vw;
 }
 
 .public {
-    width: 80vw;
+    width: 100vw;
 }
