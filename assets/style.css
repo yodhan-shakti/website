@@ -1,13 +1,11 @@
 body {
     background-color: #389fb7;
     margin: 0px;
+    width: 100vm;
+    overflow-x: hidden;
 }
 
 .menu {
     margin: auto;
     width: 1vm;
-}
-
-.public {
-    width: 100vw;
 }
