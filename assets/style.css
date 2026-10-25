@@ -8,6 +8,5 @@ body {
 
 .menu {
     border-style: dashed;
-    width: 100vm;
-    margin: 0;
+    margin: auto;
 }
