@@ -7,6 +7,7 @@ body {
 }
 
 .menu {
-    width: 100%;
+    border-style: solid;
+    width: 100vm;
     margin: 0;
 }
